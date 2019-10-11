@@ -1,5 +1,5 @@
 # idea_theme
-personal ide theme, needs MaterialUI plugin for Jetbrains IDEs
+personal JetBrains IDE theme, needs MaterialUI plugin
 
 Installation:
   
