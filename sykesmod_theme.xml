@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>sykesmod_theme</id>
+  <editorColorsScheme>Galaxie</editorColorsScheme>
+  <dark>true</dark>
+  <name>SykesMod</name>
+  <colors>
+    <color id="background" value="121d23ff"/>
+    <color id="foreground" value="b0bec5ff"/>
+    <color id="text" value="607d8bff"/>
+    <color id="highlight" value="425b67ff"/>
+    <color id="selectionBackground" value="32424aff"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="2e3c43ff"/>
+    <color id="secondaryBackground" value="32424aff"/>
+    <color id="disabled" value="415967ff"/>
+    <color id="contrast" value="152329ff"/>
+    <color id="tableSelected" value="314549ff"/>
+    <color id="secondBorder" value="2a373eff"/>
+    <color id="treeSelection" value="546e7aff"/>
+    <color id="notifications" value="320c0eff"/>
+    <color id="accent" value="009688ff"/>
+    <color id="excluded" value="2e3c43ff"/>
+  </colors>
+  <themeId>sykesmod_theme</themeId>
+</mtTheme>
