@@ -1,0 +1,27 @@
+<mtTheme>
+  <shouldSyncColors>false</shouldSyncColors>
+  <fileId>custom</fileId>
+  <themeId>sykesmodTheme</themeId>
+  <name>SykesMod</name>
+  <editorColorsScheme>SykesMod copy</editorColorsScheme>
+  <dark>true</dark>
+  <colors>
+    <color id="background" value="121d23ff"/>
+    <color id="foreground" value="72a1aaff"/>
+    <color id="text" value="4aac6cff"/>
+    <color id="highlight" value="7e0437ff"/>
+    <color id="selectionBackground" value="0d131aff"/>
+    <color id="selectionForeground" value="18f52fff"/>
+    <color id="button" value="1b2b43ff"/>
+    <color id="secondaryBackground" value="162129ff"/>
+    <color id="disabled" value="535a64ff"/>
+    <color id="contrast" value="05202dff"/>
+    <color id="tableSelected" value="154c79ff"/>
+    <color id="secondBorder" value="162129ff"/>
+    <color id="treeSelection" value="084a7aff"/>
+    <color id="notifications" value="1a2434ff"/>
+    <color id="accent" value="184a7aff"/>
+    <color id="secondAccent" value="ffcb6bff"/>
+    <color id="excluded" value="16232aff"/>
+  </colors>
+</mtTheme>
